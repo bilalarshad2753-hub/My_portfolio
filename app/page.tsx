@@ -92,7 +92,7 @@ export default function Home() {
       >
         <div className="container mx-auto px-6 py-20 flex items-center justify-between min-h-screen max-w-6xl">
           <div className="fade-in max-w-2xl">
-            <h1 className="text-7xl md:text-8xl font-bold text-[#06b6d4] mb-6 leading-tight">Hi, I'm a Web Developer</h1>
+            <h1 className="text-7xl md:text-23xl font-bold text-[#06b6d4] mb-6 leading-tight">Hi, I'm a Web Developer</h1>
             <p className="text-xl text-[#cbd5e1] mb-8 leading-relaxed slide-in-left">
               I craft beautiful, functional web experiences with clean code
               <br />
