@@ -53,7 +53,7 @@ export function Header() {
           onClick={() => handleNavClick("home")}
           className="text-2xl font-bold text-[#06b6d4] cursor-pointer hover:scale-110 transition-all duration-300 gradient-text relative group"
         >
-          Bilal
+          Bilal A
           <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-[#06b6d4] group-hover:w-full transition-all duration-300"></span>
         </button>
         <nav className="flex gap-8">
